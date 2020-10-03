@@ -1,0 +1,1 @@
+print("hello".__add__(str(12)))
